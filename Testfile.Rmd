@@ -20,5 +20,6 @@ library(tidyverse)
 summary(cars)
 ggplot(cars) +
   geom_hist(speed)
+
 ```
 
